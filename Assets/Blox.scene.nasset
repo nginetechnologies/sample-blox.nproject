@@ -46,7 +46,7 @@
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
-                "asset": "5a6c4cbc-4813-4c40-b5be-decf6113e543"
+                "asset": "809b712f-7745-4f36-aee3-20b93c14ce99"
             },
             "data_components": [
                 {
@@ -169,8 +169,8 @@
             },
             "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
                 "radius": 40.0,
-                "irradiance": "f8e988bd-5181-417f-86f6-16e947c2e417",
-                "prefiltered": "614855dc-f150-89ee-ca09-7cc9d44d0985"
+                "irradiance": "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
+                "prefiltered": "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7"
             },
             "data_components": [
                 {
@@ -210,7 +210,7 @@
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                 "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
-                "material_instance": "c4336256-b031-4fed-9323-210ac72ca4a5"
+                "material_instance": "9b37984d-28bb-4840-a5cb-213238725947"
             },
             "data_components": [
                 {
