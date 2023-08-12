@@ -1,0 +1,4102 @@
+{
+    "0087fa41-743a-1503-eefe-14a52e980705": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Wood.mesh.nasset/Shovel Wood Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "00f97eac-c386-6783-a2d1-ee97a28fdfcd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Ice.mesh.nasset/Block Ice.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "027dac4f-9d64-f470-8e09-f7d5037ded6e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Yellow.mesh.nasset/Pixel Block Bricks Yellow Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "03bce47c-b28d-d089-1033-082173b48de0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Coal.mesh.nasset/Block Coal.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "04af5771-a4c9-29b5-a7f5-f3d57653cab1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Blank.mesh.nasset/Pixel Block Blank Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "04c53b93-5e6b-9c70-7877-994af571b324": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Gold.mesh.nasset/Shovel Gold.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "05af1b13-cc95-60e3-8dbc-a9e610dc3c10": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Dark.mesh.nasset/Pixel Block Bricks Dark Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "05ec10fe-b0f2-2883-13f8-e90d275941e2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Blank.mesh.nasset/Pixel Block Blank Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "064bf16a-e03f-f2e6-f915-9fdf84100071": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Incline.mesh.nasset/Rail Incline Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "07af388e-c6c3-be6c-3554-94a61593a826": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 3.mesh.nasset/Tree 3 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "07bf9043-5823-95b3-f7ea-1bc2d16589ce": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Diamond.mesh.nasset/Pickaxe Diamond Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "09d34e9d-de3e-3e28-ca27-91b3c403c4af": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Grey.mesh.nasset/Pixel Block Bricks Grey.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0a836e0b-f643-584d-8ae8-9286e11a28a4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Stone.mesh.nasset/Shovel Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0ae760fa-f048-1cbc-84d5-30129571290c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Door Closed.mesh.nasset/Door Closed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0b03e4f9-8330-0b73-721c-15ee24c24d68": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Gold.mesh.nasset/Sword Gold Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0b13f1cd-daf3-bee4-bae0-287fae9d5900": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Wood.mesh.nasset/Pixel Block Wood Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0d639416-236c-3d95-3e8b-165d98ae1f27": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Snow.mesh.nasset/Pixel Block Snow.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0dd33237-27a2-14b3-e2b4-93f5e418e883": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Stone.mesh.nasset/Pixel Block Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0e6af6d9-4623-a58c-e9e2-1dd11ee9c309": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence End.mesh.nasset/Fence End.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0ee355d9-ee3c-2c52-4a6c-5b98a9f6eaaa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bush.mesh.nasset/Bush Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0ef6a814-7e14-0670-dac2-f2f427aacba7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Dirt.mesh.nasset/Pixel Block Dirt Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0fedefe4-687b-944d-ae99-4f2c62320467": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Cart.mesh.nasset/Cart Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1125e302-ffdc-b25e-84d9-6efcecad9f48": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Small.mesh.nasset/Grass Small Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "12be1a7f-f0c8-9b2f-d832-464ccf9083bb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Snow.mesh.nasset/Pixel Block Snow.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1387dde2-61a4-b3f9-ff82-04433d3273c7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Diamond.mesh.nasset/Pickaxe Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "13d30a4f-09ea-6deb-7106-d63005107b50": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Straight.mesh.nasset/Rail Straight.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "13d670c1-80e5-e38c-6d5b-daf3d2a282b8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Diamond.mesh.nasset/Block Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "141370b9-fb7d-bb62-bc14-c51187b250d9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Open.mesh.nasset/Chest Open.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "145dc85f-5907-842a-847b-0655c3ec61f3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence End.mesh.nasset/Fence End Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "14846113-5f75-59f8-dd2e-c4144a6b843b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block GreyBricks.mesh.nasset/Block GreyBricks.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "148c8a0a-6203-b9a4-ff9c-9adbd0b5dfa5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 2.mesh.nasset/Tree 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "14cb586b-7fd7-cb9c-49d9-792b2ed1a0df": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Diamond.mesh.nasset/Shovel Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "14d4e706-c00d-53a0-d584-0961c2c7a709": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Coal.mesh.nasset/Pixel Block Coal Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "14fd0be1-3107-b17f-e486-171f7613bc36": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Mushroom.mesh.nasset/Mushroom Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1529956e-da57-f337-86be-4379dccf59ad": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Gold.mesh.nasset/Axe Gold.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "153a7649-8d22-0b92-ec11-3c97ddc0ca3a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Wood.mesh.nasset/Shovel Wood Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1553bede-e5c7-0adb-55ba-743a084a1da0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Gold.mesh.nasset/Sword Gold.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "15a16630-2290-5dfb-12c1-870ce2bd9864": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 3.mesh.nasset/Dead Tree 3 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "15daf9af-34d6-378a-a598-cdd403534fc5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Metal.mesh.nasset/Block Metal Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "164ec79c-ee9b-57fe-618f-11376068ba32": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 3.mesh.nasset/Dead Tree 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "16bd61d1-0b4d-8f9e-bbea-81ff51be9f5a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Brick.mesh.nasset/Block Brick.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "16ea4f3e-8674-0263-715e-5a02cb75fde2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Key.mesh.nasset/Key Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "174dae30-4599-7867-59ba-1eb2cfdcee6a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Grass.mesh.nasset/Pixel Block Grass.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "18c7dd70-dc56-f794-a3dd-4a76a5508b9f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Straight.mesh.nasset/Rail Straight Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "18ea3bfb-9ab4-918c-033c-ec2db18071cd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 2.mesh.nasset/Flowers 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "195662a3-96a0-c229-8db0-0ae961d5bc77": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Mid.mesh.nasset/Bamboo Mid Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "19848574-2d19-45b0-6825-a6aaf6c0cf41": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Stone.mesh.nasset/Pixel Block Stone Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1a2c9767-2623-6341-e373-cdba0a2af886": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Wood.mesh.nasset/Block Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1b228efd-237c-c38b-62fe-fd45c17ff95d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Corner.mesh.nasset/Rail Corner Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1b3dcd3e-9fa5-c3e9-e498-c85b756e3dc3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Stone.mesh.nasset/Sword Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1b5200c8-a8a1-d77a-c142-7263527a52ce": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Wood.mesh.nasset/Block Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1be530b3-29d6-9012-1353-2fc54bd33eb8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Cheese.mesh.nasset/Block Cheese Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1c2ad240-c653-8278-28b7-a8ad5bcd2f6c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Corner.mesh.nasset/Rail Corner.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1c5ef43b-e51b-91f2-ce12-3bad01cf8a1b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Yellow.mesh.nasset/Pixel Block Bricks Yellow.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1c89d1cd-ff69-7482-ef9e-99452f7e3006": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Diamond.mesh.nasset/Axe Diamond Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1ddcbb07-8b6a-8223-77b2-2e3fbb80e232": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Stone.mesh.nasset/Block Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1fc3337e-beca-3db3-8a30-2a28e1064b40": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Leaves.mesh.nasset/Pixel Block Leaves.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "209c1fab-7968-7511-d822-f5d8a7f06450": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Cart.mesh.nasset/Cart Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "214dd1a5-ac48-aacd-7394-0e451011eb1d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Mushroom.mesh.nasset/Mushroom Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "219dadcc-de7c-c094-dcb7-1d6e4d88c6d6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Wood.mesh.nasset/Pixel Block Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "227df8f4-5583-626f-bc31-f166909bebdd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Grass.mesh.nasset/Pixel Block Grass Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "22a5646a-3549-112c-e4b3-9862fc25e231": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Center.mesh.nasset/Fence Center Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "23523079-0f91-876d-1c11-dae55d061a33": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Wood.mesh.nasset/Pickaxe Wood Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "23ba6e10-e483-c821-99eb-bb4f3fdf8afa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Button Pressed.mesh.nasset/Button Pressed Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "24ba6bbe-cdfb-7c83-9fdb-f981bf39c423": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 2.mesh.nasset/Plant 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "24ccd445-b488-61b2-75e8-6c2d492e5906": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Diamond.mesh.nasset/Shovel Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "251485e6-64ae-ca00-6aa7-487778eb36fe": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Wood.mesh.nasset/Axe Wood Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2521a9eb-de50-c8e2-f8c9-44bf780d2135": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence T.mesh.nasset/Fence T.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "252f2ae3-e781-95b2-0b30-7528c787a36b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Corner.mesh.nasset/Fence Corner Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "25c02529-3846-3a51-2c86-1eb9ec9fb7cb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 1.mesh.nasset/Flowers 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "26d53838-7f9b-246e-1998-70f4a6e07808": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/SC_Blox_Plain.scene.nasset"
+    },
+    "287d54eb-75d4-ad46-b4c9-257b352d9bef": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Right.mesh.nasset/Lever Right.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "28c4a56f-c5c5-e1fb-a9e1-9c3de19ca8d3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Grey.mesh.nasset/Pixel Block Bricks Grey Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "28d18305-23ac-a939-5fb0-5751b2620b36": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 3.mesh.nasset/Plant 3 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "29334fc9-4c7a-947f-a546-4e5a94e701fe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Small.mesh.nasset/Crystal Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "29b67afc-6f74-5cd4-ea8d-d1c742161370": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Diamond.mesh.nasset/Pixel Block Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2a2fd63a-d366-faa8-02b6-70b70a887224": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Small.mesh.nasset/Crystal Small Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2b35a245-eb19-5af9-59e3-15a85f5bbb50": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Left.mesh.nasset/Lever Left Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2c973dc9-5ed5-c3a8-9055-46f0156c7d5f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Small.mesh.nasset/Grass Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2e06e210-d8c5-7371-71c9-b89a4cba7ef5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Textures/T_Blox_Pixel_Atlas_D.tex.nasset"
+    },
+    "2e2b3cc5-7ec6-3724-34b5-42ad205aee68": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Key.mesh.nasset/Key Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2e3943c0-f7fa-7197-9a27-4343897cf938": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bush.mesh.nasset/Bush Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2e4accb9-ab0b-989a-3658-4ed66e6fc49d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/SC_Blox_Pixel.scene.nasset"
+    },
+    "2e956dc9-657d-dfd2-c747-6f557140dc3c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 2.mesh.nasset/Tree 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2ec6acf6-36e8-fbf0-f72c-81a37a356150": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Stone.mesh.nasset/Pixel Block Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2ee89508-b062-fa57-9bcb-a0d15f431ca9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Stone.mesh.nasset/Axe Stone Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2f08f645-9a1c-fd1b-0199-72acab6cbfaa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Button Pressed.mesh.nasset/Button Pressed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2f6f7de0-390d-c820-171d-732390cd0b9a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 2.mesh.nasset/Dead Tree 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2fb55f96-5b86-bfa8-129f-b85bf4ac2129": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Gold.mesh.nasset/Axe Gold Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "30db7875-ecda-f228-15fb-d0b00bfe6c4b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Closed.mesh.nasset/Chest Closed Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "31310a61-dbf6-5113-41c5-dc1377ee9abf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Crate.mesh.nasset/Block Crate Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "313b5e5e-9279-4e80-542a-eae3d5d7866b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Planks.mesh.nasset/Pixel Block Planks Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "31b28f38-7350-3bd5-e9b0-a56fefd603b1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Big.mesh.nasset/Crystal Big Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "323cfbef-06ed-b3ce-a69c-e993ea740d9b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bush.mesh.nasset/Bush.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "32545212-3fc3-913a-7e59-8065429d7895": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 3.mesh.nasset/Plant 3 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "32b7d662-eb9b-a324-b212-fad2f4ba9b8b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Diamond.mesh.nasset/Sword Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "341a602b-e40b-d3ba-915b-f9c7f704043f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Dirt.mesh.nasset/Block Dirt.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "34dc94ad-fe85-c6b1-cf68-e96e9afb5cc0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Planks.mesh.nasset/Pixel Block Planks.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "372c30c4-9e26-3c29-d6f3-6b721fbcf965": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/SC_Blox_Pixel.scene.nasset"
+    },
+    "3802fe82-4917-1aa2-308c-a9a81e072934": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Ice.mesh.nasset/Pixel Block Ice.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3996e847-6260-432f-21ab-24bc0df92458": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Textures/T_Blox_Atlas_D.tex.nasset"
+    },
+    "39d6c1ea-45a6-a110-b03c-235d68755fb7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Snow.mesh.nasset/Block Snow Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "39f0c02d-142e-beb8-5e83-13174e4e4bd1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Right.mesh.nasset/Lever Right Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3a0ed85f-c097-2ae7-cad0-e5473a0770b1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Grey.mesh.nasset/Pixel Block Bricks Grey Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3a6645f3-4a90-230a-9ce9-5cac7cffe77a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Diamond.mesh.nasset/Shovel Diamond Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3aea48c0-59ca-bce1-7e0b-588554b0aa66": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/SC_Blox_Plain.scene.nasset"
+    },
+    "3c80c6a6-8d10-6a95-7313-e4887b9217d2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Wood.mesh.nasset/Axe Wood Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3c99e467-84b7-6c9e-d2d1-b4a0993b4a16": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Grass.mesh.nasset/Block Grass.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3d8561f5-afdd-4bca-48fe-6c1d9c6e3764": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 3.mesh.nasset/Dead Tree 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3da862dd-8f59-ddf6-e52f-d40e641a175a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Crystal.mesh.nasset/Block Crystal.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3e26a393-756d-41c6-c9dd-fc4f026ceb96": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Button Pressed.mesh.nasset/Button Pressed Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3e31c168-d985-19d5-afe2-0b72ff0a29b9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Door Closed.mesh.nasset/Door Closed Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3e3af214-1c72-f705-8738-a87930c577d4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Big.mesh.nasset/Grass Big Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3ee27398-d3ee-a6c2-00af-da171bbee010": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Mid.mesh.nasset/Bamboo Mid Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3fe3011a-b5ff-c671-0a9b-ce03433ab298": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Coal.mesh.nasset/Block Coal Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "408cd2fa-3d60-5f5f-c519-7855d1950cfc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Wood.mesh.nasset/Pixel Block Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "40ca94ba-5187-0e02-628f-315cedd942ad": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Straight.mesh.nasset/Rail Straight.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "40f9b772-3d84-f671-fcaf-d5e283da6083": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 1.mesh.nasset/Flowers 1 Material.020.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "afe01878-e6f4-d7c7-081b-c1e3f5b7bdb1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "42cf85a6-2c35-e74b-69a2-a5abbec788e0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Left.mesh.nasset/Lever Left.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4341a211-52b0-a2be-08a3-1153270a12b7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Open.mesh.nasset/Chest Open Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "43bc4c3e-46f0-bd54-2496-3c1e6ad4aab9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Grey.mesh.nasset/Pixel Block Bricks Grey.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "43f20f04-5034-7721-f9ea-b85f1043fb5f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Gold.mesh.nasset/Pickaxe Gold Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "45a8b667-1e48-0c24-862c-2add80df8332": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 2.mesh.nasset/Dead Tree 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4732a0ae-05b5-1189-594c-947ea3647abb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Small.mesh.nasset/Bamboo Small Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "47daf46a-ed61-72d3-7565-7b3a7073fe15": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 2.mesh.nasset/Flowers 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4831fdd8-710d-34b2-d690-644030b0160d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 2.mesh.nasset/Flowers 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "48aae4a9-3f78-6f23-1d80-b16cc011b3c4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 2.mesh.nasset/Rock 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "48b94cd6-931c-c4fa-ae56-57e3421c993e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 3.mesh.nasset/Dead Tree 3 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "48e67c38-3e2a-f54c-96e7-5a710d0909ba": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 2.mesh.nasset/Dead Tree 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "48f6c1fe-bfb0-4ab3-11a9-7e5e6576bcb9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Mid.mesh.nasset/Bamboo Mid.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "49beb322-7c76-81bc-6f87-0ba6888a2070": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Metal.mesh.nasset/Block Metal.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4ac875a9-892a-1234-5b8e-ea2b98f20f30": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 1.mesh.nasset/Rock 1 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4b5671de-2ab4-06c7-d5c4-dec50e735c59": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence End.mesh.nasset/Fence End Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4b5ea5a3-6650-ae9f-06e3-534b1b7806b9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 1.mesh.nasset/Tree 1 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4c301182-ab5f-6a19-7e36-66772757535a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Big.mesh.nasset/Grass Big Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4d0d04a8-cc09-993a-c574-8f3e31a5e432": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Left.mesh.nasset/Lever Left Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4e7c0e06-c4ee-1b07-807f-c32c3fab5650": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Wood.mesh.nasset/Pixel Block Wood Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4f0c44c4-7dd8-fad7-24c7-9a334974314a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Stone.mesh.nasset/Pickaxe Stone Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4f183d56-0a8a-e833-4a2d-71b70d66471f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Corner.mesh.nasset/Rail Corner.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4f4efc7a-8d4e-9215-5642-e5cb0ce0c185": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Yellow.mesh.nasset/Pixel Block Bricks Yellow.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4f6f9985-555e-7bd2-5da5-5b2ec88d739f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/SC_Blox_Tools.scene.nasset"
+    },
+    "500f4048-fa6f-09ed-8d36-1df72c99339d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Corner.mesh.nasset/Fence Corner Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "50bd7a06-4638-4923-f8ce-083804b07c6c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Gold.mesh.nasset/Axe Gold Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "516871f8-9d1d-3aba-be5d-a940cb7c9d19": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Small.mesh.nasset/Grass Small Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5262fbb0-be04-0e44-1db5-fa08b8b8a85d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Blank.mesh.nasset/Block Blank Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "52e46052-6ead-b7c9-816b-939dbe7d5160": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence T.mesh.nasset/Fence T.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "53339f39-8968-9cd0-85bb-8092f91a1d06": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Open.mesh.nasset/Chest Open.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "53411486-1e98-19f0-b8e2-ec89729d3e1c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Small.mesh.nasset/Grass Small Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "53c89b51-f475-9822-efb3-319fd4daf309": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/SC_Blox_Enviro.scene.nasset"
+    },
+    "53f5f66e-b6a2-9f62-cd1d-0c2fd2c725f8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Blank.mesh.nasset/Block Blank Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "546a2f09-4d95-14f7-87e8-752d151e15d7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Blox Atlas.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "3996e847-6260-432f-21ab-24bc0df92458"
+        ]
+    },
+    "55550251-05ab-9926-f4df-3a5eb126f061": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Dirt.mesh.nasset/Pixel Block Dirt.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "55fe0c42-3b87-2dbe-d74e-02130d4e273d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Textures/T_Blox_Atlas_D.tex.nasset"
+    },
+    "55fed67d-f532-f302-45ba-d6ada8cbd50a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Big.mesh.nasset/Crystal Big.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "56708760-7239-1908-f15b-1542a8bcba3a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Red.mesh.nasset/Pixel Block Bricks Red Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "56c0bb4d-e466-3001-9d20-c920e84054a7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 1.mesh.nasset/Tree 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "590fd1f7-f236-a78d-fdd1-872b2e97a7e1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Red.mesh.nasset/Pixel Block Bricks Red.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "595dc705-b8aa-4a64-a2f4-a91cade2b50d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Blank.mesh.nasset/Pixel Block Blank.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "59920cd7-5675-e59f-3d6c-1ba5dbc4fc4e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Question.mesh.nasset/Pixel Block Question.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5a69f2a6-4225-7637-e45a-91bc0b79a13c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Small.mesh.nasset/Bamboo Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5c6dc61b-137b-29db-6585-4fcf3e8481bd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Crystal.mesh.nasset/Block Crystal.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5e54dc3f-0879-700e-5990-edecaaf54935": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Right.mesh.nasset/Lever Right.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5e7cea02-d42a-012f-1520-a5ad2a2aede6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Brick.mesh.nasset/Block Brick Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5e888812-0e19-fe7d-e0cd-d7331028aa94": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 2.mesh.nasset/Rock 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5e97158e-82b7-cb21-6b7e-2fc2f4e4d45d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 2.mesh.nasset/Rock 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5eb71f8b-5737-d169-fc02-f3277a4834b3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Big.mesh.nasset/Crystal Big Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5f605669-64d1-9841-6867-66ffdb386947": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Diamond.mesh.nasset/Axe Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6018f9a3-3ff4-1b78-d37c-75c77356c947": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Small.mesh.nasset/Crystal Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "601d2377-368f-46c2-3e2c-094cabf69dff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 3.mesh.nasset/Plant 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "60718c73-bca4-da38-2c84-5971d85b8bd9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Ice.mesh.nasset/Pixel Block Ice Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "60e26485-a2ef-7648-7d52-bbb5fa2dd012": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Closed.mesh.nasset/Chest Closed Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "61a022d4-4fda-7876-145e-45097e8de2d4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Big.mesh.nasset/Grass Big.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "623e282a-b84f-4ee5-c96c-51d02a304df9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Mid.mesh.nasset/Bamboo Mid Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "63306594-baca-29cd-7fc3-026efb9a2757": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Right.mesh.nasset/Lever Right.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6421ca03-0d62-4212-156b-7512b53acaa2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 2.mesh.nasset/Plant 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "663ec58f-a322-43bd-b12b-bf28180ed545": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Leaves.mesh.nasset/Pixel Block Leaves Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "66ce9ab5-9f23-f23f-c587-a55ae07c4dab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Blank.mesh.nasset/Block Blank.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "67ad8e2c-1c57-e428-919b-1ef4c70fd55e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Wood.mesh.nasset/Pickaxe Wood Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "67ad97e2-6e7c-11b3-b493-ce09baa55d52": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Question.mesh.nasset/Pixel Block Question.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "69459c09-c7a6-4074-d7c8-35ca4af17343": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 1.mesh.nasset/Rock 1 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "69b6f68b-1f4e-a44b-90bb-a27f37103761": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Grass.mesh.nasset/Block Grass Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6a070d9d-c70f-9965-9afd-92284a0177be": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Center.mesh.nasset/Fence Center.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6b1090f9-1261-18e6-07d9-7a1bf6271f0f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 1.mesh.nasset/Rock 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6ba2ac4f-0adf-e498-85ea-ec1186e39e16": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Blank.mesh.nasset/Block Blank.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6bb9f8c1-a5c0-fc73-bab1-a2258c02c10b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Snow.mesh.nasset/Block Snow.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6c8499ff-14c4-8416-8c97-6065d8305f88": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block GreyBricks.mesh.nasset/Block GreyBricks.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6db1a557-c1ff-2279-3be3-fc204c7009d7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Wood.mesh.nasset/Pickaxe Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "70619c07-946f-9d3f-2e2b-1d2759b5efba": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo.mesh.nasset/Bamboo Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7082fd8d-67d1-5d2a-1a35-e99da3e08e75": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Stone.mesh.nasset/Block Stone Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "726dfc0a-f047-f8ee-11fc-c784008b14b9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 1.mesh.nasset/Tree 1 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "732676ec-394c-a8e6-e561-efed49bf8c16": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Crate.mesh.nasset/Block Crate.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "73dca4c3-f689-15f2-6e21-7725644b8a61": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence T.mesh.nasset/Fence T Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "749c311a-5764-73e1-703a-1e3ebc939029": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Small.mesh.nasset/Grass Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "751824cd-2015-421b-b24e-2d30c4b3846f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Straight.mesh.nasset/Rail Straight Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "758b5d0f-2a06-7954-20b9-735950ab27b6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Grass.mesh.nasset/Block Grass Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "75b959f6-7e2e-9b69-c716-89d426b99875": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Straight.mesh.nasset/Rail Straight Atlas.043.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "db008c9a-26a7-ae33-bcf2-3f16555a9f6f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "75baeb0e-a10b-e7df-134f-28754d57a4f5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Gold.mesh.nasset/Shovel Gold.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "76329550-fd77-51e4-2840-ef200fb96e11": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Dirt.mesh.nasset/Pixel Block Dirt.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7725a795-cf7b-80c9-c61e-86e084308527": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 2.mesh.nasset/Plant 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7738618c-04c5-dc25-3933-70efadf90905": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Cart.mesh.nasset/Cart Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "77818ea4-f06d-ba5b-e833-ffaccd66cb7b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Left.mesh.nasset/Lever Left.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7a06df33-a9b5-6452-d3ac-2ae1b0ad9ab2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Stone.mesh.nasset/Shovel Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7aa6fa0f-b475-42f1-25f2-1e38fe4984ea": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Diamond.mesh.nasset/Pixel Block Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7ab0e77b-4159-7913-13be-2ce8d885c838": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Stone.mesh.nasset/Axe Stone Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7bc3ad52-c445-205e-8427-02c56d6a6692": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bush.mesh.nasset/Bush Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7c00e751-dcd9-1e9a-ba53-4c910b0ec658": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence End.mesh.nasset/Fence End.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7c9da42e-07e5-abd4-3bad-62051c55fbbf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Dirt.mesh.nasset/Block Dirt Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7d071d59-12a7-f844-7e18-92319efbc7df": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Ice.mesh.nasset/Block Ice Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7d1f1316-09db-bab4-01e7-039974c5e2ef": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Button Pressed.mesh.nasset/Button Pressed Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7dce2877-453b-3e4d-766f-e983cb9bfe7a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Stone.mesh.nasset/Axe Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7e01bf5e-dfa2-502a-3a23-e6828ad258b8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 2.mesh.nasset/Dead Tree 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7e2ec7f8-44c3-6469-b11b-f8c84ca4ef0f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 2.mesh.nasset/Rock 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7e9ef4d1-a9fc-4ce3-098e-da26c59028b3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Ice.mesh.nasset/Block Ice.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "7f107eb2-2474-a69b-41b5-1c2881f3785f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Big.mesh.nasset/Grass Big Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7f65d598-79db-bbc3-9c9e-be018e395ab7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block GreyBricks.mesh.nasset/Block GreyBricks Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8004b42f-411f-e0ed-e3b8-9588095ceedb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Wood.mesh.nasset/Block Wood Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "814c84d3-66f2-a21b-b450-e60e47921431": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Blox Pixel.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "e01aedec-4606-8e12-bb92-fac53c0c3e3f"
+        ]
+    },
+    "81b4b205-1114-891d-3792-411d523d5140": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 1.mesh.nasset/Rock 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "81d71482-e75a-5c23-05b2-b87efe343681": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Wood.mesh.nasset/Axe Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "81fd8a4f-76a4-f595-e681-94f96b2ba038": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Stone.mesh.nasset/Pickaxe Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "83041734-5bf6-297d-8a0e-0b169d6bc695": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Stone.mesh.nasset/Block Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "83193ece-7fde-d987-6a52-e7ccd8788a3a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 1.mesh.nasset/Dead Tree 1 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "834c2e01-b4e9-ba8f-704a-30acc301bcfa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Key.mesh.nasset/Key Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "836febb0-c959-24fc-83e1-70a3f2f499f0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 1.mesh.nasset/Tree 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "83fbac67-4e41-bcd6-eb30-44553f71b5c4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Key.mesh.nasset/Key.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "85153256-cbde-75e2-d258-5f1ef5c03c92": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Big.mesh.nasset/Crystal Big.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "85584de2-6523-f6f8-b979-3eee93752eb4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Mushroom.mesh.nasset/Mushroom.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "859845e3-b383-b9d1-df9c-b3130666d856": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block GreyBricks.mesh.nasset/Block GreyBricks Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "86687b9d-45c9-bd81-99fb-d84b0f828f11": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Leaves.mesh.nasset/Pixel Block Leaves Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "867fb1c0-8b82-60f1-8bd0-b0aa944c8661": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Block Square.mesh.nasset/Pixel Block Block Square.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "87a95dde-df0c-b026-4309-861ad92e07a6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Center.mesh.nasset/Fence Center Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "89650a7a-1bfe-840f-2e8e-05db8f24f59a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Block Square.mesh.nasset/Pixel Block Block Square Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8b5f7e2c-8063-a8df-6fa8-f5acfb71380f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 3.mesh.nasset/Plant 3 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8bb99722-bf1b-e7a7-4b52-1e19750cf461": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 1.mesh.nasset/Dead Tree 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8c8bc543-b43b-12a9-ce33-603467b0160d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 3.mesh.nasset/Plant 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8d1567d6-d869-21ed-bd19-68cfb74c6266": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Wood.mesh.nasset/Pickaxe Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8d81e22b-ea89-773a-acf6-ea911d8bc04e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 2.mesh.nasset/Tree 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8d9e81a0-d77b-fe2d-c6ba-1145d2eff9cd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Door Closed.mesh.nasset/Door Closed Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8daf4c09-9fe5-cca2-d071-56b38cc5a28c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Corner.mesh.nasset/Rail Corner Atlas.043.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "db008c9a-26a7-ae33-bcf2-3f16555a9f6f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8f0d51aa-2ffb-a3b3-40b0-df4b8e812f2a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Ice.mesh.nasset/Block Ice Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8f2a0c52-0ca2-dc95-433d-a287b0debcb4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Door Closed.mesh.nasset/Door Closed Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8f7a0b30-f509-6b26-04cd-60f6f7b497d2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Diamond.mesh.nasset/Block Diamond Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8f963b0d-51bc-364f-37d3-9c16567fca9b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 1.mesh.nasset/Dead Tree 1 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8f9ec964-7048-af18-1cc4-a364f7858758": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Small.mesh.nasset/Bamboo Small Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8fb2c931-a389-a2c9-ff41-d1390e67be79": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 2.mesh.nasset/Tree 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "906cce9e-f8f0-da36-ba74-b7e6469ffee2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Question.mesh.nasset/Pixel Block Question Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "90b98e7f-ac60-3563-bb14-839c238377ee": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Gold.mesh.nasset/Sword Gold.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "90bd6d08-2ba8-a6b1-5df5-74ce46447d3c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 3.mesh.nasset/Tree 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "910e37a9-7008-ecf7-8ab1-4982013619a1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Wood.mesh.nasset/Sword Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "92151d0c-21c0-f5d8-886b-d2acee7a22c5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Diamond.mesh.nasset/Pixel Block Diamond Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "93091939-3287-f845-fe9c-fedd968f58c2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Mushroom.mesh.nasset/Mushroom Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "934786c8-97db-08b3-49e4-62079ba1c0c5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 1.mesh.nasset/Dead Tree 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "94a7644b-92a2-353c-a3a4-b12e1fc25db3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Dirt.mesh.nasset/Pixel Block Dirt Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "94b0b577-a6e4-1312-1b43-d45fdd266285": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Diamond.mesh.nasset/Sword Diamond Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9508511d-62e0-857f-1316-b1d14f69afd3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 1.mesh.nasset/Flowers 1 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "95a0057e-bd4a-816b-aaa2-d9057f71ed9f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 2.mesh.nasset/Rock 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "95ad2a1d-c544-05a8-b037-ea5c284fba19": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Cart.mesh.nasset/Cart.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "96450fb7-79bf-57f0-3599-cf361e264303": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence T.mesh.nasset/Fence T Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "96cd84d0-edfe-00a5-a0ff-6e12eb9a07fc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Grass.mesh.nasset/Pixel Block Grass.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "96eaf046-bbfe-f116-cbad-8d64c70b53ce": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Brick.mesh.nasset/Block Brick.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "98d886ef-762b-6856-aca8-38146537e52b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Small.mesh.nasset/Grass Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "994b1f37-4721-f1b5-d927-0576deb42534": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Big.mesh.nasset/Grass Big.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9a9c042c-a07d-0c1e-9772-3e1d35a78da4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Corner.mesh.nasset/Rail Corner Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9aa68e13-f26c-090f-6717-1d029fff0b64": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Block Square.mesh.nasset/Pixel Block Block Square.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9abb434b-b183-4c86-0f7c-0f3c7ec73f6b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Leaves.mesh.nasset/Pixel Block Leaves.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9b3f02ec-c2fd-41a4-4d07-2c29507ad747": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Door Closed.mesh.nasset/Door Closed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9c2390a6-3aa0-cd51-65d8-580d852c03f3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Small.mesh.nasset/Crystal Small Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9cfe7c49-1622-47ff-781f-de7d33b4c837": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Dark.mesh.nasset/Pixel Block Bricks Dark Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9d2d5cd8-6060-dffa-49b2-db1a8a732a98": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Ice.mesh.nasset/Pixel Block Ice Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9d69ab06-8ff2-a8fb-8405-924c4b422e16": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo.mesh.nasset/Bamboo Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9d9c3950-5d50-2845-69db-866ec3f43ed7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 3.mesh.nasset/Tree 3 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9e23da85-b42b-bf3d-eb00-e4bddb2f6926": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 1.mesh.nasset/Rock 1 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9e378310-5dee-6f83-13f6-6b18e5c989f6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 3.mesh.nasset/Dead Tree 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9e75e006-b679-3d19-5379-6c84d0ce0a7a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Gold.mesh.nasset/Axe Gold.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9fcc3dd7-3431-dcf4-cf97-5ad50df6eccd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo.mesh.nasset/Bamboo.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a0569886-0630-89ce-146e-80ec17959df3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Cheese.mesh.nasset/Block Cheese.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a09332e6-c574-cdb7-712a-9e686930e930": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Gold.mesh.nasset/Shovel Gold Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a10b04d7-32f0-209a-5cd3-9b06295ce76f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Open.mesh.nasset/Chest Open Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a1b595c7-922f-a501-53e1-93577b805f47": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Diamond.mesh.nasset/Block Diamond Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a30d8561-48ee-e3a5-d98c-593b7fcd178b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Coal.mesh.nasset/Block Coal Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a4626263-2d0a-2d3b-cd1f-d6315302ba03": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Gold.mesh.nasset/Pickaxe Gold Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a554c80a-8493-9773-e4d5-c7afb2d26803": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Center.mesh.nasset/Fence Center Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a6822538-2b1f-536b-e31d-fc5c4339f638": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 3.mesh.nasset/Tree 3 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a6bd0a52-e7e8-5f9b-7c69-ad3de6b877b7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Red.mesh.nasset/Pixel Block Bricks Red.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a6ed8b2f-9b56-d600-a028-a44518faf384": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Open.mesh.nasset/Chest Open.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a82ee2e3-11ba-7259-4460-e9170871c16b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Yellow.mesh.nasset/Pixel Block Bricks Yellow Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a8963502-06a7-e161-e9a5-40a9f80e3256": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 2.mesh.nasset/Tree 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a8ed2cee-509a-e119-c471-f191a8179169": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Cart.mesh.nasset/Cart.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a9f9deb8-243c-30e6-fefa-08ab22b07350": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Closed.mesh.nasset/Chest Closed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "aa532610-86d5-e117-5908-3795e81a37cf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 3.mesh.nasset/Tree 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "aaad795f-d851-2e55-a514-a89db65969a1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Snow.mesh.nasset/Pixel Block Snow Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ab85e314-2a33-1563-c691-aa1cc789bfe8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 1.mesh.nasset/Dead Tree 1 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "abbd98e8-9930-3b81-b1d6-dfdec08203b3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Diamond.mesh.nasset/Pickaxe Diamond Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "abd93959-1288-ee27-16f7-a3e64a8f9e06": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Stone.mesh.nasset/Sword Stone Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "acad21ff-031d-4e8c-f561-6857aba361f3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Small.mesh.nasset/Bamboo Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "accddd92-8b93-7a79-fafe-b4775604c5ce": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Wood.mesh.nasset/Sword Wood Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "acef1434-3b25-e601-9ff3-fc6590468e20": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 1.mesh.nasset/Rock 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ad27ec09-2327-24c3-cfac-042f4ed52b50": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Coal.mesh.nasset/Block Coal.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ad27f93a-f994-a687-3ae0-41126804e1b5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Incline.mesh.nasset/Rail Incline Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ae2f7eb2-31d4-c41e-24c1-3a974fdd45d4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Snow.mesh.nasset/Pixel Block Snow Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ae4893b4-1e5a-79b6-4545-b90f4b73775a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence End.mesh.nasset/Fence End.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ae9d016a-8968-e055-90ac-8effd19bcc08": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Dirt.mesh.nasset/Block Dirt Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "af88d746-c40c-3095-7a2c-f54cdf7303c5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Planks.mesh.nasset/Pixel Block Planks.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "afe01878-e6f4-d7c7-081b-c1e3f5b7bdb1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Material.020.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "b04df762-88c0-4114-a491-9b659fa281e8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Wood.mesh.nasset/Sword Wood Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b120c369-f08c-9c7c-3c93-b35f28cdb9b8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Exclamation.mesh.nasset/Pixel Block Exclamation.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b1afb1a2-0973-c154-47c3-a15139e2e8b5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Incline.mesh.nasset/Rail Incline.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b1b79d73-96da-421b-2669-7194768573f9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Block Square.mesh.nasset/Pixel Block Block Square Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b21af6c4-c27c-a357-f408-2b8c01d0c774": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Corner.mesh.nasset/Fence Corner.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b284927c-f8e6-3cf5-156a-443e8dfd9b32": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Blox Atlas.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "3996e847-6260-432f-21ab-24bc0df92458"
+        ]
+    },
+    "b48d4260-4553-b3e2-10bc-3ca3cfa7b004": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bush.mesh.nasset/Bush.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b4acacf6-48b3-1ec0-7057-05f3ddcfa419": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Crystal.mesh.nasset/Block Crystal Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b4ad7d5c-8e04-2559-d390-e31083966087": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Gold.mesh.nasset/Pickaxe Gold.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b54032a0-cc18-9653-3f3b-0cc23d1b9477": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo.mesh.nasset/Bamboo.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b562be75-a362-f009-ae9a-c7f91e90f2b5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence T.mesh.nasset/Fence T.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b5668a25-827b-6aeb-7231-e7266fa8fbe3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Coal.mesh.nasset/Pixel Block Coal.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b6cf1b93-20fb-ff91-8491-226715ecc0f1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Coal.mesh.nasset/Pixel Block Coal.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b6ebb162-63fc-6638-025a-a1c660253681": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Blox Pixel.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "2e06e210-d8c5-7371-71c9-b89a4cba7ef5"
+        ]
+    },
+    "b74563d6-c3a5-b74f-083f-98c8bb9bfe74": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Gold.mesh.nasset/Sword Gold Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b8b9b03e-aa33-dec9-398c-9f9e5ecb7683": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Small.mesh.nasset/Crystal Small Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ba8aa565-ca49-166a-05c8-9c9561a6d884": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 1.mesh.nasset/Dead Tree 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "baedd0ff-4cec-9a27-9f97-3c57171fcb66": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 2.mesh.nasset/Dead Tree 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "baf21c41-a737-b4a5-5821-814bfb92418a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Stone.mesh.nasset/Sword Stone Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bc3d9e14-a1b4-d85f-e946-6a4866f0cee1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Incline.mesh.nasset/Rail Incline Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bcc5ebc5-075f-6a07-983a-4ecddf531238": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Cart.mesh.nasset/Cart.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "bceac7de-3543-69dc-cec8-20b8927c9d1c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Mushroom.mesh.nasset/Mushroom.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "be87dcca-e45d-2933-162c-bc786530f870": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 2.mesh.nasset/Flowers 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "be96532c-a1e4-f811-e926-6a3a0d21a202": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence End.mesh.nasset/Fence End Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bf196f86-34c1-fc08-b7cc-8e7e379cfe76": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Stone.mesh.nasset/Axe Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "bf66993f-c125-04b4-0134-54c520e0d71c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 2.mesh.nasset/Plant 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bfbaa4dc-9dd1-813e-cd3b-3639ff45325e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Small.mesh.nasset/Crystal Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "bfbb11c7-8237-2539-edca-837de9b308cd": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/SC_Blox_Enviro.scene.nasset"
+    },
+    "bfdf64af-cd00-93ff-496d-d5beeeeef9cd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Straight.mesh.nasset/Rail Straight Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c0314dc1-f987-83d0-9eec-89ded658b668": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Key.mesh.nasset/Key.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c071d337-a45a-2324-21dc-797117bdd915": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Big.mesh.nasset/Crystal Big.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c094cf52-33e6-64a0-c0f3-1b624772f1ef": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 1.mesh.nasset/Flowers 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c0f7a72f-8b67-8684-f277-ef30b09cf0f2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 2.mesh.nasset/Tree 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c193a672-02b2-ad0a-5a42-7e74fba2ee56": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Stone.mesh.nasset/Sword Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c2484644-9673-8233-430b-e9545eaebe25": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Wood.mesh.nasset/Shovel Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c27fd0e9-12eb-cda4-1750-5704860fe7b8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Snow.mesh.nasset/Block Snow Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c2ed8a5a-6117-a0ff-0172-6d2ad3958197": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Incline.mesh.nasset/Rail Incline.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c3a69b74-4864-0be6-1909-7aa572c71660": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Open.mesh.nasset/Chest Open Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c3aeb12d-ec3f-27f5-8602-1772f4479f3d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Cheese.mesh.nasset/Block Cheese.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c45434f2-c737-b238-4b66-2a6f025d047e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Corner.mesh.nasset/Rail Corner Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c4e446b2-13e3-e146-bf02-48dd927646bc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 1.mesh.nasset/Flowers 1 Atlas.043.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "db008c9a-26a7-ae33-bcf2-3f16555a9f6f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c642b56d-269a-a330-6ad0-09a44f403b84": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Blox Atlas.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "55fe0c42-3b87-2dbe-d74e-02130d4e273d"
+        ]
+    },
+    "c82137e3-7110-c186-7415-d0696ae5b1ff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Stone.mesh.nasset/Shovel Stone Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c911d5ca-f438-b863-5741-8c6bbe48fb8e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 2.mesh.nasset/Plant 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c9e375fd-ddfe-1cdd-2d20-4c8ef524e2c7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 2.mesh.nasset/Flowers 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cbd55159-2203-e979-31b6-ab1cd965c4e0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Exclamation.mesh.nasset/Pixel Block Exclamation Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cc8439da-e306-88a5-021c-7c38402629a9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 1.mesh.nasset/Flowers 1 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cd82dbdc-c0a2-f83c-78dd-4112a91b22c2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 3.mesh.nasset/Plant 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "cd8e34d0-f19d-369a-1ebc-2e2c91942a81": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo.mesh.nasset/Bamboo.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ce21bfd5-2569-2d85-ecc5-01478a1a040c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Crystal.mesh.nasset/Block Crystal Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cf4c46de-5dad-7a1f-2c76-c338fe559744": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Diamond.mesh.nasset/Pickaxe Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d043d9ff-6092-0fc1-aec1-227a9d9457aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Crate.mesh.nasset/Block Crate.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d0d4622a-2c5b-a6af-d27f-004b3b6b611f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Straight.mesh.nasset/Rail Straight.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d104f107-5674-c4b6-d3f8-b7b020c4e1ed": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo.mesh.nasset/Bamboo Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d1112349-eada-29e8-92e4-95c26e345fdc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Right.mesh.nasset/Lever Right Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d1670f7b-e30d-f580-2eae-6d3a9c5ffd7e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Center.mesh.nasset/Fence Center.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d1fa97eb-5b40-f39e-39e8-ca1cfda89be3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Brick.mesh.nasset/Block Brick Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d33ae88d-bf74-ae13-e406-af7be5d50484": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 3.mesh.nasset/Tree 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d3a92f80-194b-2723-99a0-ad48c8d9cf32": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 1.mesh.nasset/Tree 1 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d3c77154-13e4-e735-28e0-dd079636c5c2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/SC_Blox_Tools.scene.nasset"
+    },
+    "d3d40b18-fb57-e098-7dd6-85735be10394": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Small.mesh.nasset/Bamboo Small Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d3e3f102-9d32-1ca5-f5f7-2d4b7b7d8922": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Small.mesh.nasset/Bamboo Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d491bd5d-f9c4-fd2e-209d-72f4cb93bf9b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/SC_Blox_Enviro.scene.nasset"
+    },
+    "d4938163-7bf2-bed1-e315-ec87e35a2063": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Diamond.mesh.nasset/Sword Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d4a2f7ae-e061-aca9-8399-da315c7a067d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 3.mesh.nasset/Dead Tree 3 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d6fb12e8-a492-a5bf-ae71-425bc005fe1b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Grass Big.mesh.nasset/Grass Big.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d919de68-7f48-c10e-2008-7208486f460b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Door Closed.mesh.nasset/Door Closed Atlas.043.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "db008c9a-26a7-ae33-bcf2-3f16555a9f6f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d91d7019-e34f-971c-2b9a-d4f9ad70b577": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Wood.mesh.nasset/Shovel Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d95be014-2d8c-b596-106e-86ee92bd989c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Diamond.mesh.nasset/Block Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d99c4610-51c9-1655-53e4-5de4d809fd87": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Stone.mesh.nasset/Pixel Block Stone Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d9d6b241-8f8d-ed75-263e-ede805083bff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence T.mesh.nasset/Fence T Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d9e57e39-1bec-b4d4-02ee-e8c374b58411": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Closed.mesh.nasset/Chest Closed Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dad18a4b-dcc0-bccf-4ad0-5e2c8652d514": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Stone.mesh.nasset/Block Stone Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dad67d0a-0571-0e76-6fec-b228213f25f9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Gold.mesh.nasset/Pickaxe Gold.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "dafadf03-cbbd-77d8-6291-14ba0e75e977": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 1.mesh.nasset/Flowers 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "db008c9a-26a7-ae33-bcf2-3f16555a9f6f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Atlas.043.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "dc44e404-cf1c-9085-05fe-2da6e7e53f53": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 2.mesh.nasset/Flowers 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "dda4427b-cfb7-3a81-aabd-3a3ebc174283": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Red.mesh.nasset/Pixel Block Bricks Red Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "de43687f-3cd3-4f29-66a8-a54af2e07f1a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Mushroom.mesh.nasset/Mushroom.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "de95cdba-6a4e-8468-6fc9-768420442f98": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Left.mesh.nasset/Lever Left Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dec012b3-2560-7623-02dc-e0c6d37cd690": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Stone.mesh.nasset/Pickaxe Stone Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "df02ace2-d61e-3f86-4a03-0ac6fa2ece8d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Dirt.mesh.nasset/Block Dirt.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "df95da4a-4ef7-3733-eb78-8db1cabe521f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Plant 2.mesh.nasset/Plant 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e01aedec-4606-8e12-bb92-fac53c0c3e3f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Textures/T_Blox_Pixel_Atlas_D.tex.nasset"
+    },
+    "e17e7ed5-a9a6-59c8-52a7-8aab40c8ae81": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Material Instances/Material.020.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "e19d802f-96a1-cff4-625a-95a6f6b9ca9a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Key.mesh.nasset/Key.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e28a4240-bea0-03eb-575e-fabae8a88c1f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Pickaxe Stone.mesh.nasset/Pickaxe Stone.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e371f53c-3012-9693-1b3c-bfb9457826b0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Diamond.mesh.nasset/Sword Diamond Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e434dd93-1a57-0fcc-6bda-1beaaab3fd42": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Snow.mesh.nasset/Block Snow.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e455b5e6-5b06-8f31-6397-a9fd8113d229": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Sword Wood.mesh.nasset/Sword Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e4af3b76-347b-e314-4f84-d9855ea17533": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bush.mesh.nasset/Bush.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e4e8bf4d-a34d-1024-56b2-183ad1bd2e5c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 1.mesh.nasset/Flowers 1 Material.020.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e17e7ed5-a9a6-59c8-52a7-8aab40c8ae81",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e56afe5e-3446-4744-363e-97ec8c9b0e11": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rock 2.mesh.nasset/Rock 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e59a4f1a-33bd-8ef6-127d-d6094877fd7e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Grass.mesh.nasset/Block Grass.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e5a62658-bd7f-3d12-1e46-b96526c8c0f3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Diamond.mesh.nasset/Shovel Diamond Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e5b42ea4-ecab-8b87-e6b8-e64d93dd808d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Dead Tree 2.mesh.nasset/Dead Tree 2 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "546a2f09-4d95-14f7-87e8-752d151e15d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e6ce865f-97c4-70ca-43d9-de7ffdfd7be9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Center.mesh.nasset/Fence Center.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e7105d78-4d05-a82b-c52d-9209eb075c13": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Question.mesh.nasset/Pixel Block Question Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e7d85a6e-b828-0efd-2863-75e72d85f66d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Metal.mesh.nasset/Block Metal.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ea8a1694-d44a-bb26-f38f-110643357759": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Right.mesh.nasset/Lever Right Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "eaf4e259-62fc-71c5-5acf-47399d768b0e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Button Pressed.mesh.nasset/Button Pressed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ec40bc0d-6adc-5dce-bdcf-2772045e7660": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Coal.mesh.nasset/Pixel Block Coal Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ee30f0b2-305a-ec08-3c47-78cc80a4eb8c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Blank.mesh.nasset/Pixel Block Blank.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ee4057f0-5bc5-6ca6-080e-05fc7550a021": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Corner.mesh.nasset/Fence Corner.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "eee8280e-261a-5d3f-2d29-e5992c0eebff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Crystal Big.mesh.nasset/Crystal Big Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ef6b68b5-5693-dbc8-6c0a-293679a5b4a5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Exclamation.mesh.nasset/Pixel Block Exclamation.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ef95a6e3-24b2-4064-3a7f-33c5dde7715e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Diamond.mesh.nasset/Axe Diamond.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f0139509-f639-f314-6d00-ca25e62a593c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Dark.mesh.nasset/Pixel Block Bricks Dark.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f0718cc2-e244-13ed-2fb9-1aee86d58e74": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Grass.mesh.nasset/Pixel Block Grass Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "814c84d3-66f2-a21b-b450-e60e47921431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f0b3caef-ee83-a64e-161e-36028afee625": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Closed.mesh.nasset/Chest Closed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f111d231-4b30-b08a-67a0-26144cbb6cb0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Button Pressed.mesh.nasset/Button Pressed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f281fdae-5dca-6ad9-ee66-116d852024ae": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Door Closed.mesh.nasset/Door Closed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f2f4b919-c0bb-2571-2624-8157777fafc1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Exclamation.mesh.nasset/Pixel Block Exclamation Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f3c18f55-d5ba-de7a-14c5-338ee726ca11": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Wood.mesh.nasset/Axe Wood.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f4028677-0cbb-9b80-132a-971a264f92a8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Incline.mesh.nasset/Rail Incline.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f486a2c2-66ec-8dc5-70ea-5e1b97e8d476": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Planks.mesh.nasset/Pixel Block Planks Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f48f2ca3-ad2f-02f7-4065-97ebd762e670": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Tree 1.mesh.nasset/Tree 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f56c7d37-f9b9-5eee-4e1e-c6d86df05424": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Cheese.mesh.nasset/Block Cheese Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f5a892b7-7942-5654-6d18-20ca6c74eeb8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Corner.mesh.nasset/Fence Corner Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f5c297d6-e416-d615-c8b7-f6e64c6f41b6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Mid.mesh.nasset/Bamboo Mid.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f6ef23d4-1011-d7bb-bc2e-e025dc01ee22": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Stone.mesh.nasset/Shovel Stone Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f8c4cfc5-e08b-60a5-42bb-f53fcecf7734": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Ice.mesh.nasset/Pixel Block Ice.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f90a83d3-2dd2-9fe3-da3d-0a66f203f711": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Diamond.mesh.nasset/Pixel Block Diamond Blox Pixel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b6ebb162-63fc-6638-025a-a1c660253681",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f99943f3-93c6-1d68-77af-0cad8581a1c7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Crate.mesh.nasset/Block Crate Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fa70df07-7388-ec7b-e27e-f87c913208a8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Shovel Gold.mesh.nasset/Shovel Gold Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fae531e6-35fd-c8ca-3d20-be2183e4cbbb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Fence Corner.mesh.nasset/Fence Corner.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fafc835d-2ca4-6b49-ba69-b5dab3ab4f93": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Rail Corner.mesh.nasset/Rail Corner.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fb66b9e4-9ace-c458-20c8-949223a62c76": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Chest Closed.mesh.nasset/Chest Closed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fc2da030-fc01-bab6-bc4f-f26551efa840": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Bamboo Mid.mesh.nasset/Bamboo Mid.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fcf5ac13-82b2-8b75-517a-def6d4a6fae1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Pixel.scene.nasset/Pixel Block Bricks Dark.mesh.nasset/Pixel Block Bricks Dark.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fd6d3781-dce0-2d5e-a975-675769e1b12f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Tools.scene.nasset/Axe Diamond.mesh.nasset/Axe Diamond Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fe616b0b-bc8f-9587-d0c2-09bf199d5400": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Flowers 1.mesh.nasset/Flowers 1 Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fef91541-9020-65b6-5176-a4614b46f6a8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Metal.mesh.nasset/Block Metal Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ff12f248-90b9-5da9-f838-a33d988818b7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Blox_Enviro.scene.nasset/Lever Left.mesh.nasset/Lever Left.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ff72915c-77c4-2340-0c0d-ef00d5d4f765": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Wood.mesh.nasset/Block Wood Blox Atlas.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c642b56d-269a-a330-6ad0-09a44f403b84",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "guid": "d8e413fe-858d-baf7-6b80-715373c95601"
+}
