@@ -1,0 +1,88 @@
+{
+    "guid": "47c9ec7a-7cd2-9bcc-4830-362ed958cf09",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a6e9750e-6855-4b22-22d9-180ca66e957c",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b2a5db1e-a9fd-7939-66c7-a0a7565ed1f7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Tony Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "5f155579-5e5a-fcaa-1eec-035a57daa953",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "f1aa074d-6077-4e5d-95fa-d3631dd8532e",
+                                "a687e655-14f1-4590-8519-5b0bddd76e43",
+                                "93cc5c8d-5c0a-4b03-a43d-ca954bbb7ae8"
+                            ],
+                            "jump_animations": [
+                                "29913240-5fc7-499c-a34d-1343f09f08b0",
+                                "b1e0bcdd-1cfd-404f-b323-78339ef01eed",
+                                "a2296c90-38f0-4f3b-9fa9-95081d7ed4e4"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d1914d8a-2cb4-d45d-f66b-636dcb076e6e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Tony Tony"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "87413521-7705-907e-50a6-4633b9a63d2a",
+                                "material_instance": "0180caa5-9346-c94c-906d-e1e1f191c3df"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "04078e16-fc34-c920-b14d-26f09e6a2ee0"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "daf79f7e-0475-2350-db2b-3de871e68c1c"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "47c9ec7a-7cd2-9bcc-4830-362ed958cf09"
+    },
+    "dependencies": [
+        "0180caa5-9346-c94c-906d-e1e1f191c3df",
+        "87413521-7705-907e-50a6-4633b9a63d2a",
+        "04078e16-fc34-c920-b14d-26f09e6a2ee0",
+        "daf79f7e-0475-2350-db2b-3de871e68c1c"
+    ]
+}

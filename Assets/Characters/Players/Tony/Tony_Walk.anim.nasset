@@ -1,0 +1,20 @@
+{
+    "source": "A_Tony_Walk.fbx",
+    "skeleton": "daf79f7e-0475-2350-db2b-3de871e68c1c",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "59a4d0cf-bd7f-08e1-a8a7-42801eeb7102",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "daf79f7e-0475-2350-db2b-3de871e68c1c"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "a687e655-14f1-4590-8519-5b0bddd76e43"
+        }
+    ],
+    "guid": "a687e655-14f1-4590-8519-5b0bddd76e43",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "daf79f7e-0475-2350-db2b-3de871e68c1c"
+    ]
+}

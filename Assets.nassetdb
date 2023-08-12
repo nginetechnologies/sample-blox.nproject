@@ -18,6 +18,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "0180caa5-9346-c94c-906d-e1e1f191c3df": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Players/Tony/Material Instances/Tony.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "a5f0fde2-c954-64e9-ca19-8fc9c29ea79c"
+        ]
+    },
     "027dac4f-9d64-f470-8e09-f7d5037ded6e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -35,6 +43,16 @@
         "path": "Assets/Source/SC_Blox_Plain.scene.nasset/Block Coal.mesh.nasset/Block Coal.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "04078e16-fc34-c920-b14d-26f09e6a2ee0": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Players/Tony/SK_Tony.scene.nasset/SK Tony.mesh.nasset/SK Tony Tony.meshskin.nasset",
+        "dependencies": [
+            "87413521-7705-907e-50a6-4633b9a63d2a",
+            "daf79f7e-0475-2350-db2b-3de871e68c1c",
+            "0180caa5-9346-c94c-906d-e1e1f191c3df"
         ]
     },
     "04af5771-a4c9-29b5-a7f5-f3d57653cab1": {
@@ -941,6 +959,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Textures/T_Blox_Atlas_D.tex.nasset"
     },
+    "39a4d6e2-c081-2d4e-6ee9-0ed78d298974": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Players/Tony/SK_Tony.scene.nasset/SK_Tony.scene.nasset"
+    },
     "39d6c1ea-45a6-a110-b03c-235d68755fb7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1167,6 +1189,13 @@
         "dependencies": [
             "546a2f09-4d95-14f7-87e8-752d151e15d7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "47c9ec7a-7cd2-9bcc-4830-362ed958cf09": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Players/Tony/SK_Tony.scene.nasset/SK Tony.mesh.nasset/SK Tony.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "47daf46a-ed61-72d3-7565-7b3a7073fe15": {
@@ -2149,6 +2178,18 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "87413521-7705-907e-50a6-4633b9a63d2a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Players/Tony/SK_Tony.scene.nasset/SK Tony.mesh.nasset/SK Tony Tony.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0180caa5-9346-c94c-906d-e1e1f191c3df",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "87a95dde-df0c-b026-4309-861ad92e07a6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2662,6 +2703,10 @@
             "b284927c-f8e6-3cf5-156a-443e8dfd9b32",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "a5f0fde2-c954-64e9-ca19-8fc9c29ea79c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Players/Tony/Textures/T_Blox_Atlas_D.tex.nasset"
     },
     "a6822538-2b1f-536b-e31d-fc5c4339f638": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3548,6 +3593,11 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "daf79f7e-0475-2350-db2b-3de871e68c1c": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Players/Tony/SK_Tony.scene.nasset/SK Tony.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "dafadf03-cbbd-77d8-6291-14ba0e75e977": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
