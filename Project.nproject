@@ -1,7 +1,6 @@
 {
     "name": "Blox",
-    "description": "Stylized Block Game",
-    "guid": "b0a87a27-89df-407a-be7c-1ad44dca4407",
+    "guid": "43d52c56-166e-48db-9918-c80146f31952",
     "database_guid": "019071d7-c7e1-629d-3f57-e72599be0422",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
@@ -14,7 +13,7 @@
     "binary_directory": "bin",
     "library_directory": "lib",
     "thumbnail_guid": "7ae606f0-1eb2-41cf-4707-dadefbf359ec",
-    "default_scene": "2835b671-e3c1-474f-a717-2303260f208f",
+    "default_scene": "aa62cff6-0656-4df2-b86e-91b862ecd7b0",
     "source": "Project.nproject",
     "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
 	"settings": {
