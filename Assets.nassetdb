@@ -15,12 +15,15 @@
     "aa62cff6-0656-4df2-b86e-91b862ecd7b0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Blox.scene.nasset"
+        "path": "Assets/Blox.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":256.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[2.7977137565612795,-6.209621906280518,5.577915668487549],\"rotation\":[-32.82303237915039,-3.023250769729202e-7,-10.99834156036377]}"
+        }
     },
     "guid": "019071d7-c7e1-629d-3f57-e72599be0422",
     "imported_assets": [
-        "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7",
-        "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
+        "23d9a0f0-bc6c-49c9-ba0c-4bbaaab213e4",
         "0180caa5-9346-c94c-906d-e1e1f191c3df",
         "04078e16-fc34-c920-b14d-26f09e6a2ee0",
         "05ec10fe-b0f2-2883-13f8-e90d275941e2",
@@ -98,6 +101,7 @@
         "758b5d0f-2a06-7954-20b9-735950ab27b6",
         "75baeb0e-a10b-e7df-134f-28754d57a4f5",
         "76329550-fd77-51e4-2840-ef200fb96e11",
+        "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7",
         "77818ea4-f06d-ba5b-e833-ffaccd66cb7b",
         "7aa6fa0f-b475-42f1-25f2-1e38fe4984ea",
         "7ae606f0-1eb2-41cf-4707-dadefbf359ec",
@@ -174,6 +178,7 @@
         "c4336256-b031-4fed-9323-210ac72ca4a5",
         "c45434f2-c737-b238-4b66-2a6f025d047e",
         "c642b56d-269a-a330-6ad0-09a44f403b84",
+        "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
         "c82137e3-7110-c186-7415-d0696ae5b1ff",
         "cbd55159-2203-e979-31b6-ab1cd965c4e0",
         "cd8e34d0-f19d-369a-1ebc-2e2c91942a81",
