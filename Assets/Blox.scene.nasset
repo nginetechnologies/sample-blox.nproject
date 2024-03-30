@@ -21,20 +21,8 @@
             "instanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8",
             "data_components": [
                 {
-                    "typeGuid": "22dce412-2016-4019-8392-90ff0294a32e"
-                },
-                {
                     "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
                     "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
-                },
-                {
-                    "typeGuid": "a45076cb-ff23-4203-b378-c9c1e4eb98a6"
-                },
-                {
-                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
-                },
-                {
-                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
                 },
                 {
                     "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
@@ -42,6 +30,18 @@
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "3007bcaa-22bf-42e5-d85a-b0ec8e2678f8"
+                },
+                {
+                    "typeGuid": "22dce412-2016-4019-8392-90ff0294a32e"
+                },
+                {
+                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
+                },
+                {
+                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
+                },
+                {
+                    "typeGuid": "a45076cb-ff23-4203-b378-c9c1e4eb98a6"
                 }
             ]
         },
@@ -132,7 +132,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -161,7 +161,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -2583,7 +2583,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9992
+                    -179.9991
                 ],
                 "scale": [
                     3,
@@ -3192,7 +3192,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9992
+                    -179.9991
                 ],
                 "scale": [
                     3,
@@ -3943,7 +3943,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9992
+                    -179.9991
                 ],
                 "scale": [
                     3,
@@ -7093,7 +7093,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9992
+                    -179.9991
                 ],
                 "scale": [
                     3,
@@ -7223,7 +7223,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9992
+                    -179.9991
                 ],
                 "scale": [
                     3,
@@ -11554,7 +11554,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9992
+                    -179.9991
                 ],
                 "scale": [
                     3,
@@ -32620,7 +32620,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -32649,7 +32649,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -32678,7 +32678,7 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9994
+                    -89.9993
                 ]
             },
             "data_components": [
@@ -32707,7 +32707,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -32736,7 +32736,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -32765,7 +32765,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -32794,7 +32794,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -32823,7 +32823,7 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9994
+                    -89.9993
                 ]
             },
             "data_components": [
@@ -32852,7 +32852,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -32881,7 +32881,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -32910,7 +32910,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -32939,7 +32939,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -32968,7 +32968,7 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9994
+                    -89.9993
                 ]
             },
             "data_components": [
@@ -33093,7 +33093,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33122,7 +33122,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33151,7 +33151,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33180,7 +33180,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33233,7 +33233,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33262,7 +33262,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33291,7 +33291,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33320,7 +33320,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33373,7 +33373,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33402,7 +33402,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33431,7 +33431,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33460,7 +33460,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33513,7 +33513,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33542,7 +33542,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33571,7 +33571,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33600,7 +33600,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33629,7 +33629,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -33658,7 +33658,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -33687,7 +33687,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -33716,7 +33716,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -33745,7 +33745,7 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9994
+                    -89.9993
                 ]
             },
             "data_components": [
@@ -33774,7 +33774,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -33803,7 +33803,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -33832,7 +33832,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -33861,7 +33861,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -33890,7 +33890,7 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9994
+                    -89.9993
                 ]
             },
             "data_components": [
@@ -33943,7 +33943,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -33972,7 +33972,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34001,7 +34001,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34030,7 +34030,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34083,7 +34083,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34112,7 +34112,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34141,7 +34141,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34170,7 +34170,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34223,7 +34223,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34252,7 +34252,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34281,7 +34281,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34310,7 +34310,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34363,7 +34363,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34392,7 +34392,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34421,7 +34421,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34450,7 +34450,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34479,7 +34479,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ],
                 "scale": [
                     2.25
@@ -34511,7 +34511,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34540,7 +34540,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34569,7 +34569,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34598,7 +34598,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34651,7 +34651,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34680,7 +34680,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34709,7 +34709,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34738,7 +34738,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34791,7 +34791,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34820,7 +34820,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34849,7 +34849,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34878,7 +34878,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34931,7 +34931,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -34960,7 +34960,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -35013,7 +35013,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -35042,7 +35042,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -35071,7 +35071,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -35100,7 +35100,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -35153,7 +35153,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -35182,7 +35182,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -35211,7 +35211,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -35240,7 +35240,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -35269,7 +35269,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -35298,7 +35298,7 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9994
+                    -89.9993
                 ]
             },
             "data_components": [
@@ -35327,7 +35327,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -35356,7 +35356,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -35385,7 +35385,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -35414,7 +35414,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -35443,7 +35443,7 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9994
+                    -89.9993
                 ]
             },
             "data_components": [
@@ -35472,7 +35472,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -35501,7 +35501,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -35530,7 +35530,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -35559,7 +35559,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -35588,7 +35588,7 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9994
+                    -89.9993
                 ]
             },
             "data_components": [
@@ -35617,7 +35617,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -35646,7 +35646,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -35699,7 +35699,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -35728,7 +35728,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -35973,7 +35973,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -36002,7 +36002,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -36055,7 +36055,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -36084,7 +36084,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -36137,7 +36137,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -36166,7 +36166,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -36219,7 +36219,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -36248,7 +36248,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -36301,7 +36301,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -36330,7 +36330,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -36359,7 +36359,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -36388,7 +36388,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -36417,7 +36417,7 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9994
+                    -89.9993
                 ]
             },
             "data_components": [
@@ -36510,7 +36510,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -36539,7 +36539,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -36592,7 +36592,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -36653,7 +36653,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -36682,7 +36682,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -36711,7 +36711,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -36740,7 +36740,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9994
+                    89.9993
                 ]
             },
             "data_components": [
@@ -36769,7 +36769,7 @@
                 "rotation": [
                     0,
                     0,
-                    -89.9994
+                    -89.9993
                 ]
             },
             "data_components": [
@@ -36859,7 +36859,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ],
                 "scale": [
                     3,
@@ -36893,7 +36893,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ],
                 "scale": [
                     3,
@@ -36927,7 +36927,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ],
                 "scale": [
                     3,
@@ -36961,7 +36961,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ],
                 "scale": [
                     3,
@@ -36995,7 +36995,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ],
                 "scale": [
                     3,
@@ -37029,7 +37029,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ],
                 "scale": [
                     3,
@@ -37096,6 +37096,10 @@
                     "name": "Platform"
                 },
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7b1173e3-50f2-cd78-2c82-4bb203399e5c"
+                },
+                {
                     "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
                     "spline": {
                         "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
@@ -37105,10 +37109,6 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7b1173e3-50f2-cd78-2c82-4bb203399e5c"
                 }
             ],
             "children": [
@@ -37151,6 +37151,10 @@
                     "name": "Platform.001"
                 },
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c295b415-894c-1485-6fdc-537f332d1c1e"
+                },
+                {
                     "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
                     "spline": {
                         "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
@@ -37160,10 +37164,6 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c295b415-894c-1485-6fdc-537f332d1c1e"
                 }
             ],
             "children": [
@@ -52859,7 +52859,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -52888,7 +52888,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -52941,7 +52941,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -52970,7 +52970,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -53023,7 +53023,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -53052,7 +53052,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -53105,7 +53105,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -53134,7 +53134,7 @@
                 "rotation": [
                     0,
                     0,
-                    -179.9994
+                    -179.9993
                 ]
             },
             "data_components": [
@@ -53187,7 +53187,7 @@
                 "rotation": [
                     0,
                     0,
-                    89.9996
+                    89.9995
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
@@ -53196,14 +53196,14 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spawn Point"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
                     ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -53245,14 +53245,14 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Light"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -53280,11 +53280,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Directional Gravity"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Gravity"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -53320,14 +53320,14 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -53360,14 +53360,14 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Skysphere"
-                },
-                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -53385,18 +53385,18 @@
                     73.5363
                 ],
                 "scale": [
-                    1.6781,
-                    1.6557,
+                    1.678,
+                    1.6556,
                     1.8824
                 ]
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "FinishSensor"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "FinishSensor"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -54235,7 +54235,7 @@
                     53
                 ],
                 "rotation": [
-                    89.9996,
+                    89.9995,
                     0,
                     0
                 ],
@@ -54300,11 +54300,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spline"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -54322,7 +54322,7 @@
                     59
                 ],
                 "rotation": [
-                    -89.9996,
+                    -89.9995,
                     0,
                     0
                 ],
@@ -54387,11 +54387,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline 2"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spline 2"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -54415,6 +54415,10 @@
                     "name": "Platform 4"
                 },
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c295b415-894c-1485-6fdc-537f332d1c1e"
+                },
+                {
                     "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
                     "spline": {
                         "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
@@ -54424,10 +54428,6 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c295b415-894c-1485-6fdc-537f332d1c1e"
                 }
             ],
             "children": [
@@ -54470,6 +54470,10 @@
                     "name": "Platform 5"
                 },
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c295b415-894c-1485-6fdc-537f332d1c1e"
+                },
+                {
                     "typeGuid": "a8afbfa1-eba8-4228-b269-86b8ada445ec",
                     "spline": {
                         "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
@@ -54479,10 +54483,6 @@
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c295b415-894c-1485-6fdc-537f332d1c1e"
                 }
             ],
             "children": [
@@ -54997,7 +54997,7 @@
                     43.9999
                 ],
                 "rotation": [
-                    89.9997,
+                    89.9996,
                     0,
                     0
                 ],
@@ -55062,11 +55062,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline 3"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spline 3"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -55084,7 +55084,7 @@
                     49
                 ],
                 "rotation": [
-                    -179.9996,
+                    -179.9995,
                     0,
                     0
                 ],
@@ -55149,11 +55149,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spline 4"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spline 4"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -55395,11 +55395,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sound Spot"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sound Spot"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -55409,6 +55409,7 @@
         },
         {
             "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+            "instanceGuid": "f5b9702a-b4b6-434a-9c0e-9ed92e77053a",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -40,
@@ -55424,11 +55425,11 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sound Spot"
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sound Spot"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
@@ -55451,6 +55452,10 @@
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 },
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a81fc506-2478-4202-6176-c9d3dcb524f8"
+                },
+                {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
                     "velocity": 30,
                     "rotationAxis": [
@@ -55460,10 +55465,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a81fc506-2478-4202-6176-c9d3dcb524f8"
                 }
             ],
             "children": [
@@ -55507,11 +55508,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 2"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6fdd04e1-0d4c-7380-743d-0f3edf6cd4d3"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -55523,10 +55528,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6fdd04e1-0d4c-7380-743d-0f3edf6cd4d3"
                 }
             ],
             "children": [
@@ -55570,11 +55571,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 3"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "874bfce3-8ad5-0a9b-9750-a450a288a823"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -55586,10 +55591,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "874bfce3-8ad5-0a9b-9750-a450a288a823"
                 }
             ],
             "children": [
@@ -55633,11 +55634,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 4"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7b815c8d-b142-7af3-51e8-dffa1857a9ee"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -55649,10 +55654,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7b815c8d-b142-7af3-51e8-dffa1857a9ee"
                 }
             ],
             "children": [
@@ -55696,11 +55697,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 5"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "208bb2d8-2b48-4c19-5233-7350cf287705"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -55712,10 +55717,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "208bb2d8-2b48-4c19-5233-7350cf287705"
                 }
             ],
             "children": [
@@ -55759,11 +55760,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 6"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b8e36088-4b92-2346-5415-ee1fa8c0e649"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -55775,10 +55780,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b8e36088-4b92-2346-5415-ee1fa8c0e649"
                 }
             ],
             "children": [
@@ -55822,11 +55823,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 7"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c4c000b2-5dfb-24a7-5bfa-98caa2509a3a"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -55838,10 +55843,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c4c000b2-5dfb-24a7-5bfa-98caa2509a3a"
                 }
             ],
             "children": [
@@ -55885,16 +55886,20 @@
                 "rotation": [
                     0,
                     0,
-                    0.298
+                    0.2979
                 ]
             },
             "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 8"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1feca7d6-5f8b-7d2d-adca-d5293a560c32"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -55906,10 +55911,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1feca7d6-5f8b-7d2d-adca-d5293a560c32"
                 }
             ],
             "children": [
@@ -55953,11 +55954,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 9"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6683ac85-3107-30d2-065d-8f28028614e0"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -55969,10 +55974,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6683ac85-3107-30d2-065d-8f28028614e0"
                 }
             ],
             "children": [
@@ -56016,11 +56017,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 10"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5ff0e33f-7900-f424-49ca-5430746ebef0"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56032,10 +56037,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5ff0e33f-7900-f424-49ca-5430746ebef0"
                 }
             ],
             "children": [
@@ -56079,11 +56080,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 11"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d1ff7611-b556-e852-6e56-59a8d397525b"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56095,10 +56100,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d1ff7611-b556-e852-6e56-59a8d397525b"
                 }
             ],
             "children": [
@@ -56142,11 +56143,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 12"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "397c7b96-9a83-0c48-db13-885e97a42997"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56158,10 +56163,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "397c7b96-9a83-0c48-db13-885e97a42997"
                 }
             ],
             "children": [
@@ -56205,11 +56206,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 13"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "76496ae2-fa38-b870-97ba-c5695aec388b"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56221,10 +56226,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "76496ae2-fa38-b870-97ba-c5695aec388b"
                 }
             ],
             "children": [
@@ -56268,11 +56269,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 14"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "799126cf-8756-5763-2cff-4c2907bacceb"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56284,10 +56289,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "799126cf-8756-5763-2cff-4c2907bacceb"
                 }
             ],
             "children": [
@@ -56331,11 +56332,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 15"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8f2e92e7-ab8d-042f-2343-896c8869fe4d"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56347,10 +56352,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8f2e92e7-ab8d-042f-2343-896c8869fe4d"
                 }
             ],
             "children": [
@@ -56394,11 +56395,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 16"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "341e9c53-6338-b335-ac8d-dfdb03772562"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56410,10 +56415,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "341e9c53-6338-b335-ac8d-dfdb03772562"
                 }
             ],
             "children": [
@@ -56457,11 +56458,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 17"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6bcb01ba-ad42-4122-b27c-913d432a9c8f"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56473,10 +56478,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6bcb01ba-ad42-4122-b27c-913d432a9c8f"
                 }
             ],
             "children": [
@@ -56520,11 +56521,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 18"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "907e2a45-47a1-6a8d-33b7-70dd697156bf"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56536,10 +56541,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "907e2a45-47a1-6a8d-33b7-70dd697156bf"
                 }
             ],
             "children": [
@@ -56583,11 +56584,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 19"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8768a80d-5d52-cb4d-b9a9-4ba1308ba539"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56599,10 +56604,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8768a80d-5d52-cb4d-b9a9-4ba1308ba539"
                 }
             ],
             "children": [
@@ -56646,11 +56647,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 20"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "156e8613-f2a5-0f96-ab23-45d485401df4"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56662,10 +56667,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "156e8613-f2a5-0f96-ab23-45d485401df4"
                 }
             ],
             "children": [
@@ -56709,11 +56710,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 21"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "54dacbd2-886f-10c4-c253-eea7b67767f1"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56725,10 +56730,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "54dacbd2-886f-10c4-c253-eea7b67767f1"
                 }
             ],
             "children": [
@@ -56772,11 +56773,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 22"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1b20159b-2d00-c809-453e-78d0eadb6791"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56788,10 +56793,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1b20159b-2d00-c809-453e-78d0eadb6791"
                 }
             ],
             "children": [
@@ -56835,7 +56836,7 @@
                 "rotation": [
                     0,
                     0,
-                    179.9998
+                    179.9997
                 ]
             },
             "data_components": [
@@ -56882,17 +56883,21 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -32,
-                    -12.6066,
+                    -12.6065,
                     17.4423
                 ]
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 23"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "79265b3c-74f1-a3c8-1919-b90b114b8ae4"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56904,10 +56909,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "79265b3c-74f1-a3c8-1919-b90b114b8ae4"
                 }
             ],
             "children": [
@@ -56951,11 +56952,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 24"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "443a1fff-0e2f-8250-4e8e-e1d00c2ed5b2"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -56967,10 +56972,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "443a1fff-0e2f-8250-4e8e-e1d00c2ed5b2"
                 }
             ],
             "children": [
@@ -57014,11 +57015,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 25"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "183b07c1-264e-7b1c-7d38-18bf28c21bfb"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57030,10 +57035,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "183b07c1-264e-7b1c-7d38-18bf28c21bfb"
                 }
             ],
             "children": [
@@ -57077,11 +57078,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 26"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8f5383bf-8c84-0872-0309-0c42b22207a4"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57093,10 +57098,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8f5383bf-8c84-0872-0309-0c42b22207a4"
                 }
             ],
             "children": [
@@ -57140,11 +57141,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 27"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7c09ab51-cca5-e9a6-402e-1965bae5540b"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57156,10 +57161,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7c09ab51-cca5-e9a6-402e-1965bae5540b"
                 }
             ],
             "children": [
@@ -57203,11 +57204,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 28"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "22e44988-3982-7bad-2b78-6cc479d74358"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57219,10 +57224,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "22e44988-3982-7bad-2b78-6cc479d74358"
                 }
             ],
             "children": [
@@ -57266,11 +57267,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 29"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "70ca5680-77c7-889e-43b5-7de071a6548e"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57282,10 +57287,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "70ca5680-77c7-889e-43b5-7de071a6548e"
                 }
             ],
             "children": [
@@ -57329,11 +57330,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 30"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "4bd2744b-9fed-d8e5-abd2-393488218fce"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57345,10 +57350,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4bd2744b-9fed-d8e5-abd2-393488218fce"
                 }
             ],
             "children": [
@@ -57392,11 +57393,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 31"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b87729b8-2f21-0382-1038-d7030e2302ad"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57408,10 +57413,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b87729b8-2f21-0382-1038-d7030e2302ad"
                 }
             ],
             "children": [
@@ -57455,11 +57456,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 32"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a1fb28a8-bc17-e777-7c0f-0005a57ea0ba"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57471,10 +57476,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a1fb28a8-bc17-e777-7c0f-0005a57ea0ba"
                 }
             ],
             "children": [
@@ -57518,11 +57519,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 33"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "32b66c77-a78e-b3df-70db-375a41724ba4"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57534,10 +57539,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "32b66c77-a78e-b3df-70db-375a41724ba4"
                 }
             ],
             "children": [
@@ -57581,11 +57582,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 34"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "1893eae2-a1f1-20f7-f139-6a3403221ef0"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57597,10 +57602,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1893eae2-a1f1-20f7-f139-6a3403221ef0"
                 }
             ],
             "children": [
@@ -57644,11 +57645,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 35"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7fdfbbc4-0034-4d43-509e-bc44fbc59359"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57660,10 +57665,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7fdfbbc4-0034-4d43-509e-bc44fbc59359"
                 }
             ],
             "children": [
@@ -57707,11 +57708,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 36"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e29088eb-1749-b9da-b1a5-c4e1b1b08f47"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57723,10 +57728,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e29088eb-1749-b9da-b1a5-c4e1b1b08f47"
                 }
             ],
             "children": [
@@ -57770,11 +57771,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 37"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "bf743bf7-b960-9f59-6a32-66882db9c606"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57786,10 +57791,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "bf743bf7-b960-9f59-6a32-66882db9c606"
                 }
             ],
             "children": [
@@ -57833,11 +57834,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 38"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "9395d367-77da-bfb5-f95f-886f5c245847"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57849,10 +57854,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9395d367-77da-bfb5-f95f-886f5c245847"
                 }
             ],
             "children": [
@@ -57896,11 +57897,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 39"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "25201863-dce7-ea91-046f-409969ac20a5"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57912,10 +57917,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "25201863-dce7-ea91-046f-409969ac20a5"
                 }
             ],
             "children": [
@@ -57959,11 +57960,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 40"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "771f8b5c-e542-315a-6796-0e2b636dc796"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -57975,10 +57980,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "771f8b5c-e542-315a-6796-0e2b636dc796"
                 }
             ],
             "children": [
@@ -58022,11 +58023,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 41"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "ccb12067-56af-c5d6-aefe-4d3b5f806143"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58038,10 +58043,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ccb12067-56af-c5d6-aefe-4d3b5f806143"
                 }
             ],
             "children": [
@@ -58085,11 +58086,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 42"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "cea8c9ca-3c65-10b2-bc95-d293ce5ed26e"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58101,10 +58106,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "cea8c9ca-3c65-10b2-bc95-d293ce5ed26e"
                 }
             ],
             "children": [
@@ -58148,11 +58149,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 43"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e0168cf0-99e7-3bdd-6915-550672e2dbb0"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58164,10 +58169,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e0168cf0-99e7-3bdd-6915-550672e2dbb0"
                 }
             ],
             "children": [
@@ -58211,11 +58212,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 44"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d53a83ea-75b3-fe44-3fb3-301c4b34b730"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58227,10 +58232,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d53a83ea-75b3-fe44-3fb3-301c4b34b730"
                 }
             ],
             "children": [
@@ -58274,11 +58275,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 45"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "703864a0-a9d3-0475-3921-95641004014f"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58290,10 +58295,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "703864a0-a9d3-0475-3921-95641004014f"
                 }
             ],
             "children": [
@@ -58337,11 +58338,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 46"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5daa09d9-f71e-5ef8-263c-6ee2bf0b084f"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58353,10 +58358,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5daa09d9-f71e-5ef8-263c-6ee2bf0b084f"
                 }
             ],
             "children": [
@@ -58400,11 +58401,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 47"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c63c8dda-100e-a60f-7b18-2fb86fd5e215"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58416,10 +58421,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c63c8dda-100e-a60f-7b18-2fb86fd5e215"
                 }
             ],
             "children": [
@@ -58463,11 +58464,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 48"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "15c6600e-b767-f943-bee3-2098febf6a6e"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58479,10 +58484,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "15c6600e-b767-f943-bee3-2098febf6a6e"
                 }
             ],
             "children": [
@@ -58526,11 +58527,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 49"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f0a45f35-1cba-19f7-bba9-cc31a0c05b88"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58542,10 +58547,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f0a45f35-1cba-19f7-bba9-cc31a0c05b88"
                 }
             ],
             "children": [
@@ -58589,11 +58590,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 50"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f4864e06-81f9-0491-fd04-c8d570fd9a9a"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58605,10 +58610,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f4864e06-81f9-0491-fd04-c8d570fd9a9a"
                 }
             ],
             "children": [
@@ -58652,11 +58653,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 51"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58668,10 +58673,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -58739,11 +58740,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 52"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58755,10 +58760,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -58802,11 +58803,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 53"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58818,10 +58823,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -58865,11 +58866,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 54"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58881,10 +58886,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -58928,11 +58929,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 55"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -58944,10 +58949,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -58991,11 +58992,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 56"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -59007,10 +59012,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -59054,11 +59055,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 57"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -59070,10 +59075,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -59117,11 +59118,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 58"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -59133,10 +59138,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -59180,11 +59181,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 59"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -59196,10 +59201,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -59243,11 +59244,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 60"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -59259,10 +59264,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -59306,11 +59307,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 61"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -59322,10 +59327,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -59369,11 +59370,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 62"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -59385,10 +59390,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -59432,11 +59433,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 63"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -59448,10 +59453,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -59495,11 +59496,15 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Collectible 64"
                 },
                 {
-                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 },
                 {
                     "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
@@ -59511,10 +59516,6 @@
                     ],
                     "rotationLimit": "0-0",
                     "mode": 1
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0387116-ae34-8d57-d4f6-8e09631c0e06"
                 }
             ],
             "children": [
@@ -59544,6 +59545,288 @@
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "84be036b-30a5-4fc8-958e-451daf55b057"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "25a26dca-4366-792f-d8d4-ade651dcb63f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -41.8283,
+                    1.3609,
+                    24.5009
+                ],
+                "scale": [
+                    1.7017
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spikes Tall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a9b62594-8661-e23e-ce48-978dc1bc3bab"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ec3bb05f-4244-8a59-34ea-374c66064a24",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -40.4483,
+                    1.358,
+                    24.5009
+                ],
+                "scale": [
+                    1.7017
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spikes Tall 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a9b62594-8661-e23e-ce48-978dc1bc3bab"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ce788018-ed2f-bf5c-fc3b-ee4b89e24268",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -41.8283,
+                    4.2342,
+                    24.5009
+                ],
+                "scale": [
+                    1.7017
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spikes Tall 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a9b62594-8661-e23e-ce48-978dc1bc3bab"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "65ac7c9c-dcdd-d046-7d69-b05276c007e8",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -40.5992,
+                    4.3791,
+                    24.3701
+                ],
+                "scale": [
+                    1.7017
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spikes Tall 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a9b62594-8661-e23e-ce48-978dc1bc3bab"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "560c27ad-db5d-43ec-c1f1-cff941e9cf88",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -41.5268,
+                    2.9369,
+                    24.3701
+                ],
+                "scale": [
+                    1.7017
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spikes Tall 6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a9b62594-8661-e23e-ce48-978dc1bc3bab"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bbe36d45-a163-9fb3-2d51-684d2aa4f778",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -40.4451,
+                    2.9369,
+                    24.3701
+                ],
+                "scale": [
+                    1.7017
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spikes Tall 7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a9b62594-8661-e23e-ce48-978dc1bc3bab"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "51fa8e84-5977-784c-ebb4-c6adce77d351",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -40.9173,
+                    2.9349,
+                    25.7042
+                ],
+                "scale": [
+                    2.6767,
+                    5.3848,
+                    2.3225
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "DamageSensor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5520deb5-8144-4af1-8fb0-149031fb795b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c5bcbad0-1728-6928-c5ed-e2b152a6a38d",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -38,
+                    -12.3913,
+                    31.4919
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    179.9997
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chest Open"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "b8871b2f-1876-ff67-53d0-cfd5d0ea7cef"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "141370b9-fb7d-bb62-bc14-c51187b250d9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "67312ef3-cbac-e7e9-eca8-b7f266c9f669",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -38.0211,
+                    -11.6557,
+                    32.5422
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "HealthCollectible"
+                },
+                {
+                    "typeGuid": "821f5c81-6446-4230-b4c9-6ea6b37c24b1",
+                    "velocity": 30,
+                    "rotationAxis": [
+                        0,
+                        0,
+                        1
+                    ],
+                    "rotationLimit": "0-0",
+                    "mode": 1
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "67b6e2f9-bedc-4dc7-87ff-2ab7b27ab463",
+                    "instanceGuid": "f943a41f-ec2c-405a-add4-d3753a508b68",
+                    "67b6e2f9-bedc-4dc7-87ff-2ab7b27ab463": {
+                        "audio_asset": "9896166c-538e-4d85-9963-da97cc39b584",
+                        "mesh": "5a2919e1-131d-14bd-596b-59fa482afa23"
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                            "type": 1,
+                            "layer": 1,
+                            "body_flags": 1,
+                            "maximumAngularVelocity": 2699.9997,
+                            "overriddenMass": 0,
+                            "gravityScale": 1
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "06adbd64-1b72-400e-a104-511a90d16965"
+                        }
+                    ]
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b024a68-e202-492a-86e0-4007809e545b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c55e800c-4a38-6993-7150-1469e82a2357",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -35,
+                    0,
+                    -2
+                ],
+                "scale": [
+                    140.5359,
+                    102.9425,
+                    1
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "HazardSensor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e97e2232-f5fe-47cc-99b5-36ad43501c8c"
             }
         }
     ],
