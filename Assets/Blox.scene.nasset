@@ -37097,7 +37097,7 @@
                         "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
                         "instanceGuid": "5f70501f-774a-2c93-13d4-3fa6087d2540"
                     },
-                    "velocity": 10,
+                    "velocity": 2,
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
@@ -37152,7 +37152,7 @@
                         "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
                         "instanceGuid": "b690ba2d-953b-b4ef-9435-6ad3ee34f740"
                     },
-                    "velocity": 10,
+                    "velocity": 2,
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
@@ -54416,7 +54416,7 @@
                         "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
                         "instanceGuid": "516a8a80-1460-50b0-fee4-960c1a255df1"
                     },
-                    "velocity": 10,
+                    "velocity": 2,
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
@@ -54471,7 +54471,7 @@
                         "typeGuid": "304ec37e-bce4-48b6-9c2e-6108738270ff",
                         "instanceGuid": "a061e8c3-166a-dc64-2ea8-4489b6fcda7f"
                     },
-                    "velocity": 10,
+                    "velocity": 2,
                     "override": false,
                     "applyRotation": false,
                     "mode": 2
