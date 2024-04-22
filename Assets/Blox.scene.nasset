@@ -18,6 +18,7 @@
     "children": [
         {
             "typeGuid": "d2c2c3a5-b813-4ab8-b52f-7986940e5b67",
+            "instanceGuid": "6ba1c22d-c41b-4aae-bebd-36d92e684c1e",
             "data_components": [
                 {
                     "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
